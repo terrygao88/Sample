@@ -1,2 +1,2 @@
 # Sample
-Git Class Repo
+Git Class Repo good
